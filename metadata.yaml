@@ -1,0 +1,34 @@
+_repo: Volcanoes-What-They-are-and-What-They-Teach_67873
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Judd, John W. (John Wesley)
+    aliases:
+    - Judd, John Wesley
+    - Judd, J. W. (John Wesley)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '35146'
+    url: http://www.gutenberg.org/2009/agents/35146
+    wikipedia: https://en.wikipedia.org/wiki/John_Wesley_Judd
+description: ''
+gutenberg_issued: '2022-04-19'
+identifiers:
+  gutenberg: '67873'
+language: en
+pgterms:marc904: https://archive.org/details/volcanoeswhatthe00juddrich
+pgterms:marc905: 20220207152101judd
+pgterms:marc906: '1881'
+pgterms:marc907: United States
+production_note: Tom Cosmas compiled from materials made availbe at The Internet Archive
+  and placed in the Public Domain.
+publication_note: United States :D. Appleton and Company,1881.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Volcanoes'
+- GITenberg
+title: 'Volcanoes: What They are and What They Teach'
+url: http://www.gutenberg.org/ebooks/67873
