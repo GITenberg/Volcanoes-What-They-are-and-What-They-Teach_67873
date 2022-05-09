@@ -1,5 +1,8 @@
 _repo: Volcanoes-What-They-are-and-What-They-Teach_67873
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67873-h/images/cover.png
 creator:
   author:
     agent_name: Judd, John W. (John Wesley)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35146
     wikipedia: https://en.wikipedia.org/wiki/John_Wesley_Judd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67873#Volcanoes-What-They-are-and-What-They-Teach
 gutenberg_issued: '2022-04-19'
 identifiers:
   gutenberg: '67873'
